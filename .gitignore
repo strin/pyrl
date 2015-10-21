@@ -4,3 +4,6 @@
 tags
 *.swp
 *.sqlite
+
+# ipython
+.ipynb_checkpoints
